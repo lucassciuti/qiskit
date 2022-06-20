@@ -1,0 +1,3 @@
+https://medium.com/analytics-vidhya/grovers-algorithm-in-python-c1dfa132e3af - código em python
+
+https://samuraigab.medium.com/algoritmo-de-grover-em-detalhes-17444c92ddd5 - medium samurai sobre grover
